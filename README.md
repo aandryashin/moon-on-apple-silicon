@@ -140,9 +140,9 @@ browsers:
       firefox:
         default: 100.0.0-0
         repository: quay.io/browser/firefox
-      safari:
-        default: 15.0-0
-        repository: quay.io/browser/safari
+      webkit:
+        default: 613.1.6.1
+        repository: quay.io/browser/webkit
       chrome: null
       MicrosoftEdge: null
       opera: null
