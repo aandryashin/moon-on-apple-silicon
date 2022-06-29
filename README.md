@@ -119,6 +119,8 @@ deployment:
   moonConfRepo: aandryashin/moon-conf
   moonUIRepo: aandryashin/moon-ui
   moonTag: 2.2.0
+  moonConfTag: 2.2.0
+  moonUITag: 2.0.2
 configs:
   default:
     containers:
